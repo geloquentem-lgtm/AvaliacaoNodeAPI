@@ -1,0 +1,23 @@
+{
+  "name": "avaliacaonodeapi",
+  "version": "1.0.0",
+  "description": "atividade avaliativa :/",
+  "homepage": "https://github.com/geloquentem-lgtm/AvaliacaoNodeAPI#readme",
+  "bugs": {
+    "url": "https://github.com/geloquentem-lgtm/AvaliacaoNodeAPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geloquentem-lgtm/AvaliacaoNodeAPI.git"
+  },
+  "license": "ISC",
+  "author": "matheus rafael ferreira",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
