@@ -2,7 +2,7 @@ const filmes = new Array (
     {
         Titulo:'Sexta feira 13', 
         Classificacao:18, 
-        Descricao:'Um filme do genero slasher que extreia a famosa franquia "Sexta feira 13" do Assassino em série Jason.', 
+        Descricao:'Um filme do genero slasher que extreia a famosa franquia Sexta feira 13 do Assassino em série Jason.', 
         Lancamento:'9 de maio de 1980'
     },
     {
